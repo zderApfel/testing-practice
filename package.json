@@ -1,0 +1,19 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Practice using the Jest training framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zderApfel/testing-practice.git"
+  },
+  "author": "Zachary J Zahradka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zderApfel/testing-practice/issues"
+  },
+  "homepage": "https://github.com/zderApfel/testing-practice#readme"
+}
